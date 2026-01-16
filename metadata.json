@@ -1,0 +1,7 @@
+{
+  "name": "Data Analyst AI Network Dashboard",
+  "description": "A high-performance monitoring and interaction dashboard for the Data Analyst AI Network (DAAN), featuring real-time agent tracking, computational orchestration, and multi-agent workflow visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
